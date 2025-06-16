@@ -31,7 +31,7 @@
 
 ## 📦 Download
 
-> 🔗 [**Click here to download the game**](https://your-link.com)
+> 🔗 [**Click here to download the game**](https://drive.google.com/drive/folders/1o1NX3HiIrK73SejBh2WP3Gso9RSBQlQP?usp=drive_link)
 
 ---
 
