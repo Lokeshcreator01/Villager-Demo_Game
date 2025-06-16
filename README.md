@@ -1,28 +1,74 @@
+# 🏡 Villager Escape Game
 
-# 🏡 Villager Game
+**Villager Escape Game** is a simple and fun third-person game built using **Unreal Engine** and developed entirely with **Blueprints**. The goal is to **collect as many coins as possible** while avoiding angry neighbor villagers trying to catch you!
 
-A fun and interactive simulation game where you manage a village, make strategic decisions, and help your villagers thrive. From farming and resource gathering to expanding territory and facing random events, every choice you make affects your village’s future!
+---
 
-## ✨ Features
-- 👩‍🌾 Build and manage your own village  
-- 🌾 Grow crops, collect resources, and trade  
-- 🏘️ Expand territory and upgrade buildings  
-- ⚔️ Face random challenges and make critical decisions  
-- 📊 Simple UI with engaging gameplay loop
+## 🎮 Gameplay Overview
 
-## 🚀 Tech Stack
-- Python (or Unity, JavaScript, etc. — update based on your project)
-- Game loop logic
-- Sprite-based graphics (if applicable)
-- Save/load functionality
+- 👣 You play as a villager running around a small town.
+- 🪙 Collect gold coins scattered around the map.
+- ⚠️ Watch out! The other villagers will chase you if you get too close.
+- 💨 Escape them while grabbing more coins to increase your score.
 
-## 📦 How to Run
-```bash
-# Clone the repo
-git clone https://github.com/your-username/villager-game.git
+---
 
-# Run the game
-python main.py
+## 🛠️ Features
+
+- Built in **Unreal Engine (Blueprints only)** – no coding!
+- Simple and clean low-poly environment
+- Coin collection system with score tracking
+- AI-based villagers that chase the player
+- Smooth player movement and controls
+
+---
+
+## 📸 Screenshots
+
+> *(You can add some gameplay screenshots here)*
+
+---
+
+## 📦 Download
+
+> 🔗 [**Click here to download the game**](https://your-link.com)
+
+---
+
+## 📁 Folder Structure (Main Highlights)
+
+```
+/VillagerEscapeGame
+│
+├── Content/
+│   ├── Blueprints/           # All gameplay logic
+│   ├── Maps/                 # Main game level
+│   ├── Characters/           # Player and villager AI
+│   └── UI/                   # Basic HUD
+│
+└── Config/
 ```
 
-## 📥 [Download Game](https://your-link.com) *(optional APK or EXE)*
+---
+
+## 🧠 Concept & Inspiration
+
+This game is a basic prototype inspired by stealth and collection mechanics, where players must stay alert, make quick decisions, and beat the AI at its own game.
+
+---
+
+## 🙌 Credits
+
+- Developed by: **[Lokesh Gunasekaran]**
+- Engine: **Unreal Engine 5.5**
+- Assets: From Unreal Marketplace / Custom
+
+---
+
+## 🚀 How to Play
+
+1. Launch the game
+2. Use **WASD** or arrow keys to move
+3. Collect coins
+4. Avoid the chasing villagers
+5. Try to beat your high score!
